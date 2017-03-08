@@ -10,6 +10,8 @@ set :repo_url, "https://github.com/gch19831987/blog.git"
 # Default deploy_to directory is /var/www/my_app_name
 # set :deploy_to, "/var/www/my_app_name"
 
+set :deploy_to, '/home/apps/blog'
+
 # Default value for :format is :airbrussh.
 # set :format, :airbrussh
 
